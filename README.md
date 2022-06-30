@@ -1,2 +1,2 @@
-# c-pprojects
+# c-projects
 Collection of c projects
